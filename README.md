@@ -78,3 +78,15 @@ npm start
 
 Open http://localhost:3000
  in your browser 🚀
+
+
+
+ ## 👩‍💻 Author
+
+- **Premavathy V**  
+- 📧 Email: [vprema376@gmail.com](mailto:vprema376@gmail.com)  
+- 🌐 GitHub: [PremavathyV](https://github.com/PremavathyV)  
+- 💼 LinkedIn:
+ [Premavathy Vijayan](https://www.linkedin.com/in/premavathy-vijayan-921a39252/)
+
+---
