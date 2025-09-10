@@ -36,3 +36,45 @@ It allows users to explore courses, watch lessons, take quizzes, and track their
 
 
 ## 📂 Project Structure
+src/
+├─ components/
+│ ├─ Navbar.jsx
+│ ├─ CourseCard.jsx
+│ ├─ LessonCard.jsx
+│ ├─ Quiz.jsx
+│ ├─ ProgressBar.jsx
+│ └─ DashboardCard.jsx
+├─ pages/
+│ ├─ Home.jsx
+│ ├─ CourseDetails.jsx
+│ ├─ Lesson.jsx
+│ ├─ Dashboard.jsx
+│ ├─ Login.jsx
+│ └─ Signup.jsx
+├─ context/
+│ └─ AuthContext.jsx
+├─ App.jsx
+└─ index.js
+
+
+---
+
+## ⚡ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/learnify.git
+   cd learnify
+
+2.Install dependencies
+
+npm install
+
+
+3.Run the development server
+
+npm start
+
+
+Open http://localhost:3000
+ in your browser 🚀
