@@ -8,7 +8,7 @@ It allows users to explore courses, watch lessons, take quizzes, and track their
 ## 🚀 Features
 
 ### Core Features
-- 🔐 **User Authentication** – Signup/Login/Profile management 
+- 🔐 **User Authentication** – Signup/Login/Profile management
 - 📖 **Course Catalog** – Browse courses with categories, filters, and search  
 - 🎥 **Course Details** – Syllabus, lessons, and instructor information  
 - 📊 **Progress Tracking** – Track lesson completion and quiz performance  
