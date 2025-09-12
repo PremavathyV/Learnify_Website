@@ -1,7 +1,7 @@
 # 📚 Learnify – Interactive Learning Platform
 
 Learnify is a modern, interactive learning platform built using **React**. 
-It allows users to explore courses, watch lessons, take quizzes, and track their progress in a seamless and engaging way. 
+It allows users to explore courses, watch lessons, take quizzes, and track their progress in a seamless and engaging way.
 
 ---
 
