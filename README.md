@@ -10,7 +10,7 @@ It allows users to explore courses, watch lessons, take quizzes, and track their
 ### Core Features
 - 🔐 **User Authentication** – Signup/Login/Profile management
 - 📖 **Course Catalog** – Browse courses with categories, filters, and search 
-- 🎥 **Course Details** – Syllabus, lessons, and instructor information  
+- 🎥 **Course Details** – Syllabus, lessons, and instructor information 
 - 📊 **Progress Tracking** – Track lesson completion and quiz performance 
 - 📝 **Quizzes** – Interactive assessments at the end of modules  
 - 🖥️ **User Dashboard** – View enrolled courses and learning activity 
