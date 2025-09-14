@@ -16,7 +16,7 @@ It allows users to explore courses, watch lessons, take quizzes, and track their
 - 🖥️ **User Dashboard** – View enrolled courses and learning activity
 
 ### Advanced Features
-- 🌙 **Dark/Light Mode** toggle 
+- 🌙 **Dark/Light Mode** toggle
 - 📈 **Progress Analytics** using charts (Recharts/Chart.js)  
 - 🏆 **Leaderboard** for gamification  
 - 🔖 **Bookmark Favorite Lessons**  
