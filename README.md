@@ -13,7 +13,7 @@ It allows users to explore courses, watch lessons, take quizzes, and track their
 - 🎥 **Course Details** – Syllabus, lessons, and instructor information 
 - 📊 **Progress Tracking** – Track lesson completion and quiz performance 
 - 📝 **Quizzes** – Interactive assessments at the end of modules  
-- 🖥️ **User Dashboard** – View enrolled courses and learning activity 
+- 🖥️ **User Dashboard** – View enrolled courses and learning activity
 
 ### Advanced Features
 - 🌙 **Dark/Light Mode** toggle 
