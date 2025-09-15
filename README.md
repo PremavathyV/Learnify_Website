@@ -12,7 +12,7 @@ It allows users to explore courses, watch lessons, take quizzes, and track their
 - 📖 **Course Catalog** – Browse courses with categories, filters, and search
 - 🎥 **Course Details** – Syllabus, lessons, and instructor information 
 - 📊 **Progress Tracking** – Track lesson completion and quiz performance 
-- 📝 **Quizzes** – Interactive assessments at the end of modules  
+- 📝 **Quizzes** – Interactive assessments at the end of modules 
 - 🖥️ **User Dashboard** – View enrolled courses and learning activity
 
 ### Advanced Features
